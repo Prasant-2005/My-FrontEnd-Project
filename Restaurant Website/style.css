@@ -1,0 +1,29 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css')
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+:root{
+    --main-color:#1B756B;
+    --black:#334;
+    --white:#fff;
+    --light-bg:#D7FCE7;
+    --light-color:#666;
+    --light-white:rgba(255,255,255,.3);
+    --bg-color:#eee;
+    --bg-shadow:0 .5rem 1rem rgba(0,0,0,.1);
+    --border:.1rem solid rgba(0,0,0,.2);    
+
+}
+html{
+    
+}
+*{
+    font-family: "Nunito", sans-serief;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+    text-transform: capitalize;
+    transition: 0.2s linear;
+}
